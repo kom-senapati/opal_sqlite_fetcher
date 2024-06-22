@@ -1,7 +1,15 @@
-<p align="center">
-    <h1 align="center">📜 SQLite OPAL Fetcher 📜</h1>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg" alt="sqlite logo" />
+<p  align="center">
+ <img src="https://i.ibb.co/BGVBmMK/opal.png" height=170 alt="opal" border="0" />
 </p>
+<h2 align="center">
+OPAL Fetcher for SQLite
+</h2>
+<p  align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg" alt="sqlite logo" />
+</p>
+
+[Check out OPAL main repo here.](https://github.com/permitio/opal)
+
 
 > [!NOTE]
 > Ready to elevate your [![OPAL (Open Policy Administration Layer)](https://img.shields.io/badge/OPAL-Open_Policy_Administration_Layer-blue)](https://www.opal.ac/) experience? Introducing the SQLite OPAL Fetcher! 🚀
@@ -22,14 +30,14 @@ Getting started is simple:
 
 1. Clone this repository: `git clone https://github.com/kom-senapati/opal_sqlite_fetcher.git`
 2. Install the dependencies: `pip install -r requirements.txt`
-3. Build your custom OPAL client Docker image (refer to Dockerfile)
+3. Build your custom OPAL client Docker image (Create a docker file)
 4. 🌟 Launch and enjoy the enhanced capabilities!
 
 > [!IMPORTANT]
 >
 > ### 📜 License
 >
-> This project is licensed under the `Boost Software License - Version 1.0` - see the [**`LICENSE`**](LICENSE) file for more information.
+> This project is licensed under the `Apache-2.0 license` - see the [**`LICENSE`**](LICENSE) file for more information.
 
 ### 👥 Meet the Author
 
