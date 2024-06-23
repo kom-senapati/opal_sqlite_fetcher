@@ -24,6 +24,21 @@ The SQLite OPAL Fetcher is a custom fetch provider designed to integrate SQLite 
 - 🔎 **Flexible Querying**: Use SQLite queries to retrieve precisely the data you need.
 - 🎛️ **Configurable**: Adjust connection parameters, database, and tables to fit your needs.
 
+### 📜 What is OPAL?
+
+OPAL (Open Policy Administration Layer) is an open-source administration layer for Open Policy Agent (OPA) that allows you to easily keep your authorization layer up-to-date in real-time. OPAL continuously fetches and updates policy data from various sources, ensuring your OPA policies are always based on the most current information.
+
+### 💼 Use Cases for OPAL
+
+- **Dynamic Authorization**: Real-time updates to access control policies based on changing conditions.
+- **Compliance**: Automated adjustments to policies in response to regulatory changes.
+- **Security**: Immediate application of security policies across distributed systems.
+- **User Management**: Adapt policies dynamically based on user activity or profile changes.
+
+### 🔄 Data Fetcher Integration
+
+The SQLite OPAL Fetcher leverages `sqlite3` for database operations and the `opal_common` package for integration with OPAL. This combination ensures a robust and efficient mechanism to fetch and apply policy data.
+
 ### 🛠️ Installation
 
 Getting started is simple:
